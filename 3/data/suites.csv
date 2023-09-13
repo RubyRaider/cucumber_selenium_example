@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Sep 13 18:57:44 GMT 2023","Wed Sep 13 18:57:49 GMT 2023","4824","","Login Page","","login","","A user can login","Location - features/login.feature:3"
